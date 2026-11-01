@@ -1,0 +1,4 @@
+baseURL = 'https://leahnealholt.com/'
+locale = 'en-us'
+title = 'The Adventures of Leah Neal Holt'
+theme = 'PaperMod'
