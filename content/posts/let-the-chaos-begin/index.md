@@ -6,7 +6,7 @@ tags = []
 summary = ''
 
 [cover]
-  image = ''
+  image = 'first-step.jpg'
   caption = ''
 +++
 
