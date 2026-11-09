@@ -2,3 +2,30 @@ baseURL = 'https://leahnealholt.com/'
 locale = 'en-us'
 title = 'The Adventures of Leah Neal Holt'
 theme = 'PaperMod'
+# Needed for the Search page
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Menu items that aren't pages of their own.
+# Archive, Search, and About add themselves to the menu from their own files.
+[menus]
+  [[menus.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 10
+  [[menus.main]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 30
+  [[menus.main]]
+    name = "Work"
+    url = "https://nealholtgroup.com"
+    weight = 60
+
+# Homepage intro (shown above the post list)
+[params.homeInfoParams]
+  Title = "Welcome"
+  Content = """
+This is where I write about my life as it happens: the everyday and the occasional adventure.
+Start with the newest post below, or read the [About](/about/) page to see what this is all about.
+"""
