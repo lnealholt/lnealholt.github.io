@@ -1,0 +1,8 @@
+/* Your own style tweaks. PaperMod loads this file automatically. */
+
+/* Homepage Welcome block: remove the tall fixed box so the
+   first post sits closer underneath. */
+.first-entry.home-info {
+  min-height: unset;
+  margin-bottom: var(--gap);
+}
