@@ -36,7 +36,7 @@ Halfway through, when I absolutely could not get the sand to be level on one sid
 
 {{< figure src="IMG_1656.jpeg" caption="Using orange stakes so it looks like I actually measured this properly. If I could go back to this moment, I would pull up the plastic and start immediately digging out the far left corner to save myself several hours of heartache later" >}}
 
-{{< figure src="IMG_1677.jpeg" caption= "Pile of sand and rigged up attempt to actual level it using 3/4 inch pipes I bought after wondering around Lowe's." >}}
+{{< figure src="IMG_1677.jpeg" caption= "Pile of sand and rigged up attempt to actual level it using 3/4 inch pipes I bought after wandering around Lowe's." >}}
 
 {{< figure src="IMG_1678.jpeg" caption="Occasionally got the leveling right - so I obviously had to send a photo to my husband immediately." >}}
 
