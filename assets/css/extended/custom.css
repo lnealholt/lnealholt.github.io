@@ -6,3 +6,14 @@
   min-height: unset;
   margin-bottom: var(--gap);
 }
+
+/* "Pinned" label above a pinned post's title (set weight = 1 in the post) */
+.pinned-label {
+  display: inline-block;
+  margin-bottom: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--secondary);
+}
